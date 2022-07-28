@@ -1,14 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wgth@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@600&display=swap');
 
 body {
-    background: #400854;
-    color: #FDDF4F;
+    background: purple;
+    color: gold;
 }
 
 .clock {
     height: 100%;
-    padding-top: 100%;
+    padding: 100px;
     text-align: center;
     font-size: 60px;
-    font-family: orbitron;
+    font-family: 'Orbitron';
 }
